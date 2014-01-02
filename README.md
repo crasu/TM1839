@@ -1,4 +1,8 @@
-# Arduino code for TM1839 based led stripes #
+# HTTP Controller for TM1839 #
+
+This code can be used to control a TM1839 based led strip with an arduino-ethernet via http requests.
+The stripes have been sold by ALDI in december 2013.
+
 
 ## Getting started ##
 1. Flash this code to an arduino ethernet
